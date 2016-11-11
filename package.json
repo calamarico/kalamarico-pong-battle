@@ -6,5 +6,8 @@
     "express": "^4.7.1",
     "log4js": "^0.6.33",
     "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
