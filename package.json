@@ -1,0 +1,10 @@
+{
+  "name": "kalamarico-pong-battle",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.7.1",
+    "log4js": "^0.6.33",
+    "q": "^1.4.1",
+  }
+}
