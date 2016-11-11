@@ -7,6 +7,7 @@ global.config = require('./config.json');
 
 var express = require('express'),
     app = express(),
+    expressWs = require('express-ws')(app),
     routes = require('./routes.js'),
     logger = require('./logger.js'),
     errorConnect = require('./error.js'),
